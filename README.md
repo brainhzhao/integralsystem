@@ -1,2 +1,2 @@
 # integralsystem
-奶茶店积分系统,使用django实现
+django实现的一个管理系统
